@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "389596694200",
+    "firebase_url": "https://mana-homectrl.firebaseio.com",
+    "project_id": "mana-homectrl",
+    "storage_bucket": "mana-homectrl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389596694200:android:48f2101941832afac1564d",
+        "android_client_info": {
+          "package_name": "com.example.manahomectrl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389596694200-7qce5hi32hqnqku6ib8ig20rq5st6gct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.manahomectrl",
+            "certificate_hash": "d87f76953bbdd6de89b300f333e6d5ab45c79340"
+          }
+        },
+        {
+          "client_id": "389596694200-410k43cs3luhmeub618m4gvve20p4eq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFloorcCZa5mrB9XdES19XLNa98uUz3fY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389596694200-410k43cs3luhmeub618m4gvve20p4eq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
